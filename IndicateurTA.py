@@ -1,6 +1,6 @@
 # -------------------------
 
-# Author: Doom & Oji Wolf
+# Author: Doom & Oji Wolf & xLuX
 # Github : https://github.com/nicolashss/TradingBOT
 # Website : https://xlux.xyz/
 
